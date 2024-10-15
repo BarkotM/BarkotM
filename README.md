@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on more educationg waebsites coordinated to making the world a better place for future generations.
 - 📫 
-- 😄 Pronouns: Male
+- 😄 Pronouns: He, him, his, himself
 - ⚡ Fun fact: GOD loves you!
 
 <!---
